@@ -1,1 +1,1 @@
-pritn('from dev')
+print('from dev')
