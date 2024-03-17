@@ -15,6 +15,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print('main')
     print('main2')
+    print('dev)')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 #awsd
